@@ -1,5 +1,13 @@
 # Melbourne Traffic Survey Analysis
 
+## Academic Context
+
+University: University of Melbourne  
+Course: Coursework; exact course number not independently established  
+Year: Exact original submission year not independently established  
+Project type: individual
+
+
 ## Overview
 
 A coursework notebook joining Melbourne traffic and road data, exploring speed/vehicle distributions, PCA structure, VAT views, KMeans clusters and an illustrative KNN cluster surface.
