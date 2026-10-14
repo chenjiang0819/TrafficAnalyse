@@ -8,6 +8,8 @@ University: University of Melbourne
 
 ## Implementation
 
+The VAT visualization helper retains its provided attribution; Chen implemented the traffic analysis and clustering workflow.
+
 Numeric cleaning, road-segment lookup, speed-limit differences, suburb summaries, distribution plots, a 1,000-row sample, PCA/VAT views, an elbow study, cluster sizes/silhouette and a KNN decision surface.
 
 ## Technical approach
